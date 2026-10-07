@@ -1,0 +1,5 @@
+[
+        {"product_id": 101, "name": "Apples", "category": "Groceries", "unit_price": 120},
+        {"product_id": 102, "name": "Milk", "category": "Dairy", "unit_price": 65},
+        {"product_id": 103, "name": "Bread", "category": "Bakery", "unit_price": -20} 
+    ]

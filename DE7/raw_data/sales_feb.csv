@@ -1,0 +1,4 @@
+transaction_id,category,price,quantity,transaction_date
+104,electronics,899.99,1,2023-02-10
+,groceries,5.50,10,2023-02-11
+105,books,45.00,3,2023-02-12

@@ -1,0 +1,4 @@
+CREATE DATABASE RetailDW;
+GO
+
+SELECT * FROM Fact_Sales;

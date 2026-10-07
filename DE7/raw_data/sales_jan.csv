@@ -1,0 +1,4 @@
+transaction_id,category,price,quantity,transaction_date
+101,electronics,250.50,2,2023-01-15
+102,clothing,-15.00,1,2023-01-16
+103,furniture,120.00,4,2023-01-17

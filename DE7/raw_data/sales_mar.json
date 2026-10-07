@@ -1,0 +1,4 @@
+[
+  {"transaction_id": 106, "category": "sports", "price": 55.00, "quantity": 2, "transaction_date": "2023-03-05"},
+  {"transaction_id": 107, "category": "clothing", "price": 40.00, "quantity": 1, "transaction_date": "2023-03-08"}
+]
